@@ -2,7 +2,7 @@
 
 🎓 Final-year B.Tech student majoring in *Electronics and Communication Engineering*  
 💻 Aspiring Software Developer | Passionate about *Python, **Data Structures & Algorithms, and **Problem Solving*  
-🛠 Currently interning at *Swetcha Telangana*, gaining hands-on exposure to real-world development environments
+🛠 Currently looking for entry level jobs, and want to gain hands-on exposure to real-world development environments
 
 ---
 
@@ -30,7 +30,7 @@ I aim to transition into the software development field by continuously improvin
 
 ---
 
-## 🗓 2025 Goals
+## 🗓 2026 Goals
 
 - Secure an entry-level role in the IT/software industry  
 - Build and deploy 2–3 real-world projects on GitHub  
